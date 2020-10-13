@@ -63,8 +63,8 @@ _You should make a PR (stands for Pull Request) as soon as you make any signific
   	1.4 Print `"The navigator's name is YYYY"`.
 
 ### Iteration 2: Conditionals
-  2.1. Depending on which name [is longer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length), print:
-  <br>
+  <br>  2.1. Depending on which name [is longer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length), print:
+
 	  - `The driver has the longest name, it has XX characters.` or <br>
 	  - `It seems that the navigator has the longest name, it has XX characters.` or <br>
 	  - `Wow, you both have equally long names, XX characters!`.
